@@ -6,3 +6,4 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./leetcode/linked_list_cycle.py">Linked List Cycle</a> <br>
 - <a href="./leetcode/backspace_string_compare.py">Backspace String Compare</a> <br>
 - <a href="./leetcode/validParentheses.js">Valid Parentheses</a> <br>
+- <a href="./leetcode/my_sqrt.py">Sqrt(x)</a> <br>
