@@ -9,3 +9,4 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./leetcode/my_sqrt.py">Sqrt(x)</a> <br>
 - <a href="./leetcode/contains_duplicate.py">Contains Duplicate</a> <br>
 - <a href="./leetcode/valid_anagram.py">Valid Anagram</a> <br>
+- <a href="./leetcode/two_sum.py">Two Sum</a> <br>
