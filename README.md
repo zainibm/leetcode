@@ -10,4 +10,5 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./leetcode/contains_duplicate.py">Contains Duplicate</a> <br>
 - <a href="./leetcode/valid_anagram.py">Valid Anagram</a> <br>
 - <a href="./leetcode/two_sum.py">Two Sum</a> <br>
-- <a href="./leetcode/group_anagrams.pyy">Group Anagrams</a> <br>
+- <a href="./leetcode/group_anagrams.py">Group Anagrams</a> <br>
+- <a href="./leetcode/merge_two_sorted_lists.py">Merge Two Sorted Lists</a> <br>
