@@ -29,20 +29,20 @@ def mergeTwoLists(list1, list2):
         curr.next = list2
     return root.next
 
-node_1 = ListNode(4)
-node_1 = ListNode(2)
-node_1 = ListNode(1)
-node_1.next = node_1
-node_1.next = node_1
+node_a = ListNode(1)
+node_b = ListNode(2)
+node_c = ListNode(4)
+node_a.next = node_b
+node_b.next = node_c
 
-node_2 = ListNode(4)
-node_2 = ListNode(3)
-node_2= ListNode(1)
-node_2.next = node_2
-node_2.next = node_2
+node_d = ListNode(1)
+node_e = ListNode(3)
+node_f= ListNode(4)
+node_d.next = node_e
+node_e.next = node_f
 
 '''
-sorted_ll = mergeTwoLists(node_1, node_2) => [1, 1, 2, 3, 4, 4]
+sorted_ll = mergeTwoLists(node_a, node_d)
 while sorted_ll is not None:
     print(sorted_ll.val)
     sorted_ll = sorted_ll.next
