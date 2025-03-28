@@ -16,8 +16,11 @@ def diameterOfBinaryTree(root) -> int:
     left = findHeight(root.left)
     right = findHeight(root.right)
     diameter = left + right
-    return diameter
-    
+    sub_left = diameterOfBinaryTree(root.left)
+    sub_right = diameterOfBinaryTree(root.right)
+    sub_root = max(sub_left, sub_right)
+    return max(diameter, sub_root)
+
 def findHeight(root):
     if not root:
         return 0
@@ -31,7 +34,6 @@ node.left.left = TreeNode(4)
 node.left.right = TreeNode(5)
 node.right = TreeNode(3)
 print(diameterOfBinaryTree(node)) # 3
-
 
 node_2 = TreeNode(1)
 node_2.right = TreeNode(2)

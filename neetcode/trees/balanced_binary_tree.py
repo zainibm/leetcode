@@ -12,12 +12,14 @@ class TreeNode:
 def isBalanced(root) -> bool:
     if not root:
         return True
-    left = isBalanced(root.left)
-    right = isBalanced(root.right)
+    left = height(root.left)
+    right = height(root.right)
     if (abs(left-right) > 1):
         return False
-    return True
-    
+    sub_left = isBalanced(root.left)
+    sub_right = isBalanced(root.right)
+    return sub_left and sub_right
+
 def height(root):
     if not root:
         return 0
