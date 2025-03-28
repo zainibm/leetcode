@@ -27,3 +27,4 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./neetcode/trees/invert_binary_tree.py">Invert Binary Tree</a> <br>
 - <a href="./neetcode/trees/maximum_depth_of_binary_tree.py">Maximum Depth of Binary Tree</a> <br>
 - <a href="./neetcode/trees/diameter_of_binary_tree.py">Diameter of Binary Tree</a> <br>
+- <a href="./neetcode/trees/balanced_binary_tree.py">Balanced Binary Tree</a> <br>
