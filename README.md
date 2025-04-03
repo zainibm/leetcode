@@ -8,6 +8,7 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./leetcode/validParentheses.js">Valid Parentheses</a>
 - <a href="./leetcode/my_sqrt.py">Sqrt(x)</a>
 - <a href="./leetcode/symmetric_tree.py">Symmetric Tree</a>
+- <a href="./leetcode/binary_tree_inorder_traversal.py">Binary Tree Inorder Traversal</a>
 
 ### NeetCode
 #### Arrays
