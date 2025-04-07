@@ -33,3 +33,6 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./neetcode/trees/balanced_binary_tree.py">Balanced Binary Tree</a>
 - <a href="./neetcode/trees/same_tree.py">Same Tree</a>
 - <a href="./neetcode/trees/subtree_of_another_tree.py">Subtree of Another Tree</a>
+
+#### Stacks
+- <a href="./neetcode/stacks/valid_parentheses.py">Valid Parentheses</a>
