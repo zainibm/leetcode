@@ -36,3 +36,4 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 
 #### Stacks
 - <a href="./neetcode/stacks/valid_parentheses.py">Valid Parentheses</a>
+- <a href="./neetcode/stacks/min_stack.py">Min Stack</a>
