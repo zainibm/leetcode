@@ -11,6 +11,7 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./leetcode/binary_tree_inorder_traversal.py">Binary Tree Inorder Traversal</a>
 - <a href="./leetcode/convert_sorted_array_to_binary_search_tree.py">Convert Sorted Array to Binary Search Tree</a>
 - <a href="./leetcode/palindrome_linked_list.py">Palindrome Linked List</a>
+- <a href="./leetcode/first_unique_character_in_a_string.py">First Unique Character in a String</a>
 
 ### NeetCode
 #### Arrays
