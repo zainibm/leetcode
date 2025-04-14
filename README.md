@@ -40,3 +40,6 @@ A collection of LeetCode and LeetCode-like problems I have solved (or in the pro
 - <a href="./neetcode/stacks/valid_parentheses.py">Valid Parentheses</a>
 - <a href="./neetcode/stacks/min_stack.py">Min Stack</a>
 - <a href="./neetcode/stacks/evaluate_reverse_polish_notation.py">Evaluate Reverse Polish Notation</a>
+
+### CodeSignal
+- <a href="./codesignal/reverse_in_parentheses.py">Reverse in Parentheses</a>
